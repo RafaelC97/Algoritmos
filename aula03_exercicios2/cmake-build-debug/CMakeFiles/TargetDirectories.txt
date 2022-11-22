@@ -1,3 +1,0 @@
-C:/Users/Rafae/Documents/aula03_exercicios2/cmake-build-debug/CMakeFiles/aula03_exercicios2.dir
-C:/Users/Rafae/Documents/aula03_exercicios2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Rafae/Documents/aula03_exercicios2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
